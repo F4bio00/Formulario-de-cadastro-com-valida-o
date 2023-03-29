@@ -6,7 +6,7 @@
 
 ## 💻 Sobre
 
-Projeto feito no intuito de acrescentar meu portifolio, mostrando dominio nas linguagens, baseado na aula "Criando um Formulario com Validação" e Sujeito Programador.
+Projeto feito no intuito de acrescentar meu portifolio, mostrando dominio nas linguagens, baseado na aula "Criando um Formulario com Validação" de Sujeito Programador.
 
 ## 🤯 Oprojeto é composto por:
  
